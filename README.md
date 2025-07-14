@@ -27,11 +27,6 @@ A Python application that scrapes product prices from e-commerce websites and co
 
 1. **Clone or download the project files**
 
-2. **Install Python dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Run the scraper:**
