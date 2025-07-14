@@ -123,7 +123,3 @@ The application includes robust error handling for:
 - Historical price tracking
 - Email notifications for price changes
 - Web interface for easier interaction
-
-## License
-
-This project is open source and available under the MIT License. 
